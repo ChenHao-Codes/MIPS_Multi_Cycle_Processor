@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../Multi_Cycle_Processor.srcs/sources_1/new" \
+"CPU_Top_time_synth.v" \
+"../../../../../Multi_Cycle_Processor.srcs/sources_1/new/ALU_Out_Mux.v" \
+"../../../../../Multi_Cycle_Processor.srcs/sources_1/new/Controller.v" \
+"../../../../../Multi_Cycle_Processor.srcs/sources_1/new/Instruction_Decoder.v" \
+"../../../../../Multi_Cycle_Processor.srcs/sources_1/new/Memory.v" \
+"../../../../../Multi_Cycle_Processor.srcs/sources_1/new/PC.v" \
+"../../../../../Multi_Cycle_Processor.srcs/sources_1/new/Reg.v" \
+"../../../../../Multi_Cycle_Processor.srcs/sources_1/new/Sign_Extend.v" \
+"../../../../../Multi_Cycle_Processor.srcs/sources_1/new/CPU_Top.v" \
+
+# Do not sort compile order
+nosort

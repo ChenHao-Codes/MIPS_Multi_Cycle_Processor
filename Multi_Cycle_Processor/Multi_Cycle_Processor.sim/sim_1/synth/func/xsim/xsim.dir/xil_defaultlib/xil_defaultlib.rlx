@@ -1,0 +1,14 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.sim/sim_1/synth/func/xsim/CPU_Top_func_synth.v,1651934752,verilog,,D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/ALU_Out_Mux.v,,ALU;glbl,,,../../../../../Multi_Cycle_Processor.srcs/sources_1/new,,,,,
+D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/ALU_Out_Mux.v,1651931871,verilog,,D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/Controller.v,,ALU_Out_Mux,,,../../../../../Multi_Cycle_Processor.srcs/sources_1/new,,,,,
+D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/CPU_Top.v,1651934390,verilog,,,,CPU_Top,,,../../../../../Multi_Cycle_Processor.srcs/sources_1/new,,,,,
+D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/Controller.v,1651933631,verilog,,D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/Instruction_Decoder.v,D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/head.vh,Controller,,,../../../../../Multi_Cycle_Processor.srcs/sources_1/new,,,,,
+D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/Instruction_Decoder.v,1651672525,verilog,,D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/Memory.v,,Instruction_Decoder,,,../../../../../Multi_Cycle_Processor.srcs/sources_1/new,,,,,
+D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/Memory.v,1651932930,verilog,,D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/PC.v,,Memory,,,../../../../../Multi_Cycle_Processor.srcs/sources_1/new,,,,,
+D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/PC.v,1651934318,verilog,,D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/Reg.v,,PC,,,../../../../../Multi_Cycle_Processor.srcs/sources_1/new,,,,,
+D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/Reg.v,1651932930,verilog,,D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/Sign_Extend.v,,Reg,,,../../../../../Multi_Cycle_Processor.srcs/sources_1/new,,,,,
+D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/Sign_Extend.v,1651383680,verilog,,D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/CPU_Top.v,,Sign_Extend,,,../../../../../Multi_Cycle_Processor.srcs/sources_1/new,,,,,
+D:/Vivado_Project/Multi_Cycle_Processor/Multi_Cycle_Processor.srcs/sources_1/new/head.vh,1647958478,verilog,,,,,,,,,,,,
